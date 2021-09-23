@@ -1,10 +1,13 @@
 using System;
 
-public static class Program
+namespace AOC_2020_Day_1_Report_Repair
 {
-    public static void Main(sting[] args)
+    public static class Program
     {
-        int i = 500;
-        Console.WriteLine(i);
+        public static void Main(sting[] args)
+        {
+            int i = 500;
+            Console.WriteLine(i);
+        }
     }
 }

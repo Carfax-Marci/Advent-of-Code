@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace AOC_2020_Day_1_Report_Repair
 {

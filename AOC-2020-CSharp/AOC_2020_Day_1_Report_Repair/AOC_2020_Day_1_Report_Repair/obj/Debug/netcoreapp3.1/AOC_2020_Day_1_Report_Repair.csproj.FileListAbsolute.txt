@@ -1,0 +1,13 @@
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\bin\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.exe
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\bin\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.deps.json
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\bin\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.runtimeconfig.json
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\bin\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.runtimeconfig.dev.json
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\bin\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.dll
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\bin\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.pdb
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\obj\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.csprojAssemblyReference.cache
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\obj\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.AssemblyInfoInputs.cache
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\obj\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.AssemblyInfo.cs
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\obj\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.csproj.CoreCompileInputs.cache
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\obj\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.dll
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\obj\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.pdb
+G:\Programmier Stuff\GitHub Repos\Advent-of-Code\AOC-2020-CSharp\AOC_2020_Day_1_Report_Repair\AOC_2020_Day_1_Report_Repair\obj\Debug\netcoreapp3.1\AOC_2020_Day_1_Report_Repair.genruntimeconfig.cache
